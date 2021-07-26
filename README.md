@@ -2,6 +2,10 @@
 
 calculo de indice de massa corporal
 
+![image](https://user-images.githubusercontent.com/24196749/126932179-d6905aa8-622d-435c-b8d7-ab5f3c2f70aa.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
